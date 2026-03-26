@@ -240,7 +240,7 @@ if (contactForm) {
         
         try {
             // Send email to your address
-            await emailjs.send("service_qb3m2yf", "template_abc123", {
+            await emailjs.send("service_3et1287", "template_mgd8ftq", {
                 from_name: name,
                 from_email: email,
                 subject: subject,
